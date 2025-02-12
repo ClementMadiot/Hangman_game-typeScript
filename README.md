@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./public/hangam.png" alt="Hangman-typeScript">
- <div>
+  <a href="https://hangman-game-cm.netlify.app/"><img src="./public/hangman.png" alt="hangman game"></a>
+ <div align="center">
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
   </div>
-  <h3 align="center">Hangman-typeScript</h3>
+  <h3 align="center">Hangman game</h3>
 </div>
 
 ## <br /> 📋 <a name="table">Summary</a>
@@ -19,11 +19,14 @@
 
 ## <br /> <a name="introduction">✨ Introduction</a>
 
-**[ENG]** This project is a classic Hangman game built using TypeScript, Tailwind CSS, and Vite. It offers a fun and interactive experience where players guess letters to reveal a hidden word.
+**[ENG]** This project is a classic Hangman game built with TypeScript, Tailwind CSS, and Vite. Designed for an engaging and interactive experience, it allows players to guess letters and uncover a hidden word. The game is optimized for a smooth and responsive user experience, leveraging my expertise in React and TailwindCSS.
 
-**[FR]** Ce projet est un jeu de Pendu classique construit à l'aide de TypeScript, Tailwind CSS et Vite. Il offre une expérience amusante et interactive où les joueurs devinent des lettres pour révéler un mot caché.
+**[FR]** Ce projet est un jeu du Pendu classique développé avec TypeScript, Tailwind CSS et Vite. Conçu pour offrir une expérience ludique et interactive, il permet aux joueurs de deviner des lettres pour révéler un mot caché. Le jeu est optimisé pour une expérience utilisateur fluide et réactive, s’appuyant sur mon expertise en React et en TailwindCSS
 
 ## <br /> <a name="tech-stack">🛠 Technology Used</a>
+
+- [TypeScript](https://www.typescriptlang.org/)
+ is a statically typed superset of JavaScript, offering better code quality, scalability, and maintainability. TypeScript enables developers to catch errors early, provides better code completion, and helps ensure consistency across large projects.
 
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 Tailwind CSS is a valuable tool for developers who want to build modern, responsive, and visually appealing websites without sacrificing development speed.
